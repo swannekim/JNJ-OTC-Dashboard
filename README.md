@@ -1,2 +1,4 @@
 # JNJ-OTC-Dashboard
-JNJ OTC SKU Distribution &amp; POSM Execution Rate Dashboard
+JNJ Consumer KR
+OTC SKU Distribution Rate &amp; POSM Execution Rate Dashboard
+Updated every month from Sep 6, 2022
